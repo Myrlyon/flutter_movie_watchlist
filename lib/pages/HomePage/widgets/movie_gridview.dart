@@ -24,7 +24,7 @@ class MovieGridView extends GetView<HomePageController> {
             crossAxisCount: 2,
             crossAxisSpacing: 8,
             mainAxisSpacing: 8,
-            mainAxisExtent: 420,
+            mainAxisExtent: 400,
           ),
           itemCount: controller.allMovies.length,
           itemBuilder: (context, index) {

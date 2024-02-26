@@ -33,9 +33,7 @@ class _HomePageState extends State<HomePage> {
                     Container(
                       decoration: BoxDecoration(
                         color: Color.fromRGBO(249, 241, 246, 1),
-                        // borderRadius: BorderRadius.circular(8),
                       ),
-                      // margin: EdgeInsets.symmetric(horizontal: 15),
                       height: 50,
                       child: Align(
                         alignment: Alignment.centerLeft,
